@@ -1,2 +1,2 @@
-Hey, this is a change to that I’ll commit. And it’s the location of my node.JS instance: http://flip3.engr.oregonstate.edu:60500/
+Hey, this is a change to that I’ll commit, and it’s the location of my node.JS instance: http://flip3.engr.oregonstate.edu:60500/
 
